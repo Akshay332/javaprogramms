@@ -1,0 +1,5 @@
+Q1: True
+Q2: Because Static must be public
+Q3:yes a class can be implement more than one interfaces.
+Q4:
+Q5:
